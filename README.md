@@ -7,6 +7,8 @@ In this project I will demonstrate the following skill;
 	- HTML Boilerplate code  
 	- Adding links  
 	- Adding images  
-	
+
+At the end of this project, I also demonstrated that I could make
+ordered and unordered lists.	
 
 
